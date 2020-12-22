@@ -1,1 +1,2 @@
 # DML-Unity-SemesterWork1
+This is a simple 3D platformer game. The game consists of one level, which must be completed by collecting all the gold bars. In the course of passing the level, you need to go through all the obstacles. After taking damage from a cactus, one health point is removed from the player. When these points run out, the player dies and respawns at the last checkpoint through which the player passed. Enjoy your passage!
